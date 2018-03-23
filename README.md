@@ -1,1 +1,12 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Gamiflex - The best tool to find your next video game!
+
+Final Project for Le Wagon Coding Bootcamp in Montreal.
+
+Tools used:
+* HTML5
+* CSS3
+* SASS/SCSS
+* JavaScript
+* jQuery
+* Ruby on Rails
+* PostgreSQL
