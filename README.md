@@ -1,7 +1,6 @@
 # Gamiflex - The best tool to find your next video game!
 
-Final Project for Le Wagon Coding Bootcamp in Montreal.
-Objective: build a webapp as a "Minimum Viable Product" in 10 days.
+Final Project for Le Wagon Coding Bootcamp in Montreal. Our objective: build a webapp as a "Minimum Viable Product" in 10 days.
 
 ## Tools used:
 
