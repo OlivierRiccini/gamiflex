@@ -2,7 +2,7 @@
 
 Final Project for Le Wagon Coding Bootcamp in Montreal. Our objective: build a webapp as a "Minimum Viable Product" in 10 days.
 
-## Tools used:
+## Tools & Technologies used:
 
 * HTML5
 * CSS3
@@ -11,3 +11,6 @@ Final Project for Le Wagon Coding Bootcamp in Montreal. Our objective: build a w
 * jQuery
 * Ruby on Rails
 * PostgreSQL
+* Git
+* Cloudinary
+* Heroku
