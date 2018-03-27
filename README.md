@@ -14,3 +14,4 @@ Final Project for Le Wagon Coding Bootcamp in Montreal. Our objective: build a w
 * Git
 * Cloudinary
 * Heroku
+* IGDB: Video Game Database API
